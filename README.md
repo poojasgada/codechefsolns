@@ -1,4 +1,4 @@
 codechefsolns
 =============
 
-My solutions to CodeChef Problems 
+This repo contains all the solutions i submitted on CodeChef.
