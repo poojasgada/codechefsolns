@@ -9,3 +9,6 @@ Currently this repo contains <br>
 
 1. My Solutions of Practice Problems of Level - Easy and Medium<br>
 2. My Solutions of Long and Short Challeneges of - June 2013<br>
+3. My Solutions of Long and Short Challenge of - July 2013
+
+My CodeChef handle is @doubleo
